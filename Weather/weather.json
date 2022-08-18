@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 28.5833,
+    "lat": -20.15
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 298.94,
+    "feels_like": 298.07,
+    "temp_min": 298.94,
+    "temp_max": 298.94,
+    "pressure": 1017,
+    "humidity": 19,
+    "sea_level": 1017,
+    "grnd_level": 874
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.13,
+    "deg": 91,
+    "gust": 1.88
+  },
+  "clouds": {
+    "all": 2
+  },
+  "dt": 1660649086,
+  "sys": {
+    "country": "ZW",
+    "sunrise": 1660624028,
+    "sunset": 1660665188
+  },
+  "timezone": 7200,
+  "id": 894701,
+  "name": "Bulawayo",
+  "cod": 200
+}
