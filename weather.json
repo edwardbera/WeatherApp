@@ -1,44 +1,43 @@
 {
   "coord": {
-    "lon": 28.5833,
-    "lat": -20.15
+    "lon": -74.006,
+    "lat": 40.7143
   },
   "weather": [
     {
-      "id": 801,
-      "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02n"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 294.05,
-    "feels_like": 292.69,
-    "temp_min": 294.05,
-    "temp_max": 294.05,
-    "pressure": 1012,
-    "humidity": 19,
-    "sea_level": 1012,
-    "grnd_level": 867
+    "temp": 24.01,
+    "feels_like": 24.03,
+    "temp_min": 21.97,
+    "temp_max": 26.27,
+    "pressure": 1018,
+    "humidity": 60
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.56,
-    "deg": 274,
-    "gust": 1.95
+    "speed": 1.54,
+    "deg": 280
   },
   "clouds": {
-    "all": 24
+    "all": 0
   },
-  "dt": 1660840967,
+  "dt": 1660913296,
   "sys": {
-    "country": "ZW",
-    "sunrise": 1660796745,
-    "sunset": 1660838023
+    "type": 2,
+    "id": 2039034,
+    "country": "US",
+    "sunrise": 1660903824,
+    "sunset": 1660952953
   },
-  "timezone": 7200,
-  "id": 894701,
-  "name": "Bulawayo",
+  "timezone": -14400,
+  "id": 5128581,
+  "name": "New York",
   "cod": 200
 }

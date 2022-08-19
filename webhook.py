@@ -1,6 +1,6 @@
 from flask import Flask, request, Response
 app = Flask(__name__)
-@app.route('https://short-imminent-flame.glitch.me/webhook', methods=['POST'])
+@app.route('/webhook', methods=['POST'])
 def return_response():
     print(request.json)
     ## Do something with the request.json data.
