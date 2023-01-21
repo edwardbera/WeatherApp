@@ -68,7 +68,7 @@ def getInput():
 
 
 top = tkinter.Tk()
-   # top.geometry("500x200")
+top.title("Insta Weather")
 top.configure(bg = '#343d46')
 
 input = tkinter.Text(top, show=None, height=1, width= 25, font =('michroma', 12) )
