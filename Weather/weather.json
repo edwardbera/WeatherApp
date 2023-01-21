@@ -1,44 +1,43 @@
 {
   "coord": {
-    "lon": 28.5833,
-    "lat": -20.15
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
       "id": 800,
       "main": "Clear",
       "description": "clear sky",
-      "icon": "01d"
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 298.94,
-    "feels_like": 298.07,
-    "temp_min": 298.94,
-    "temp_max": 298.94,
-    "pressure": 1017,
-    "humidity": 19,
-    "sea_level": 1017,
-    "grnd_level": 874
+    "temp": 0.3,
+    "feels_like": 0.3,
+    "temp_min": -2.65,
+    "temp_max": 1.95,
+    "pressure": 1035,
+    "humidity": 89
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.13,
-    "deg": 91,
-    "gust": 1.88
+    "speed": 0,
+    "deg": 0
   },
   "clouds": {
-    "all": 2
+    "all": 5
   },
-  "dt": 1660649086,
+  "dt": 1674331516,
   "sys": {
-    "country": "ZW",
-    "sunrise": 1660624028,
-    "sunset": 1660665188
+    "type": 2,
+    "id": 2019646,
+    "country": "GB",
+    "sunrise": 1674287636,
+    "sunset": 1674318546
   },
-  "timezone": 7200,
-  "id": 894701,
-  "name": "Bulawayo",
+  "timezone": 0,
+  "id": 2643743,
+  "name": "London",
   "cod": 200
 }
